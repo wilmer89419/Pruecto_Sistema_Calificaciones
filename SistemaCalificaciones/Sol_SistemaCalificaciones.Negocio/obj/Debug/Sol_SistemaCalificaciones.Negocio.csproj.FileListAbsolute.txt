@@ -1,0 +1,11 @@
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Negocio.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Negocio.pdb
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Datos.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Entidades.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Datos.pdb
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\bin\Debug\Sol_SistemaCalificaciones.Entidades.pdb
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\obj\Debug\Sol_SistemaCalificaciones.Negocio.csproj.AssemblyReference.cache
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\obj\Debug\Sol_SistemaCalificaciones.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\obj\Debug\Sol_Sist.35C3129E.Up2Date
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\obj\Debug\Sol_SistemaCalificaciones.Negocio.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Negocio\obj\Debug\Sol_SistemaCalificaciones.Negocio.pdb

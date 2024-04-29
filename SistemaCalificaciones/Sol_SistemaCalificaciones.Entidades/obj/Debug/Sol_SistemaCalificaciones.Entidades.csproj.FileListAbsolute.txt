@@ -1,0 +1,6 @@
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\bin\Debug\Sol_SistemaCalificaciones.Entidades.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\bin\Debug\Sol_SistemaCalificaciones.Entidades.pdb
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\obj\Debug\Sol_SistemaCalificaciones.Entidades.csproj.AssemblyReference.cache
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\obj\Debug\Sol_SistemaCalificaciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\obj\Debug\Sol_SistemaCalificaciones.Entidades.dll
+C:\Users\wilme\Source\Repos\SistemaCalificaciones\Sol_SistemaCalificaciones.Entidades\obj\Debug\Sol_SistemaCalificaciones.Entidades.pdb
